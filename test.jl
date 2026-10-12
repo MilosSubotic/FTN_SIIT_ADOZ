@@ -1,3 +1,3 @@
 #!/usr/bin/env julia
 
-print("Hello world")
+println("Hello world")
